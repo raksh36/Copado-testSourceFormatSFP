@@ -6,7 +6,7 @@
     }
   ],
   "name": "sfdxTrial",
-  "namespace": "",
+  "namespace": "expcomm",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "61.0"
 }
