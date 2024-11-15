@@ -2,14 +2,11 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": true,
-      "package": "ExpCommPackage",
-      "versionName": "ver 1.0",
-      "versionNumber": "1.0.0.NEXT"
+      "default": true
     }
   ],
   "name": "sfdxTrial",
-  "namespace": "expcomm",
+  "namespace": "expCommFirstGen",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "61.0"
 }
