@@ -1,12 +1,19 @@
 {
   "packageDirectories": [
     {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
       "path": "force-app",
-      "default": true
+      "default": true,
+      "package": "MyManagedPackage",
+      "versionDescription": "Your Package Descripton"
     }
   ],
   "name": "sfdxTrial",
   "namespace": "expCommFirstGen",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "61.0"
+  "sourceApiVersion": "61.0",
+  "packageAliases": {
+    "MyManagedPackage": "0HofK00000000EXSAY"
+  }
 }
