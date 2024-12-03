@@ -1,0 +1,64 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef1"
+            },
+            "AccountId": "@AccountRef1",
+            "Name": "Opp1Amy",
+            "CloseDate": "2024-12-31",
+            "StageName": "Prospect"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef2"
+            },
+            "AccountId": "@AccountRef2",
+            "Name": "Opp2Michael",
+            "CloseDate": "2024-12-31",
+            "StageName": "Prospect"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef3"
+            },
+            "AccountId": "@AccountRef3",
+            "Name": "Opp3Jennifer",
+            "CloseDate": "2024-12-31",
+            "StageName": "Prospect"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef4"
+            },
+            "AccountId": "@AccountRef2",
+            "Name": "Opp4Anup",
+            "CloseDate": "2024-12-31",
+            "StageName": "Prospect"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef5"
+            },
+            "AccountId": "@AccountRef1",
+            "Name": "Opp5Caroline",
+            "CloseDate": "2024-12-31",
+            "StageName": "Prospect"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef6"
+            },
+            "AccountId": "@AccountRef6",
+            "Name": "Opp6Jonathan",
+            "CloseDate": "2024-12-31",
+            "StageName": "Prospect"
+        }
+    ]
+}
